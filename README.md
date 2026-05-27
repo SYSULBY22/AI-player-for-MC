@@ -1,5 +1,13 @@
 # AIMC — 在《我的世界》里加一个 AI 队友
 
+<p align="center">
+  <img src="F1.png" alt="预览 1" width="18%" />
+  <img src="F2.png" alt="预览 2" width="18%" />
+  <img src="F3.png" alt="预览 3" width="18%" />
+  <img src="F4.png" alt="预览 4" width="18%" />
+  <img src="F5.png" alt="预览 5" width="18%" />
+</p>
+
 你刚拿到这个项目文件夹。按下面顺序做，就能让一个 AI 以「第二个玩家」的身份进你的世界，帮你挖矿、建造、战斗、聊天。
 
 **它是什么？** 基于开源 [Mindcraft](https://github.com/mindcraft-bots/mindcraft)：大模型负责思考，程序通过「局域网开放」连进你的单人世界。**不是**改游戏模组，也**不是**看屏幕点鼠标的外挂。
