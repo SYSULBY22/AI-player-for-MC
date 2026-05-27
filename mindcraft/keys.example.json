@@ -1,0 +1,6 @@
+{
+    "_comment": "Legacy format. Prefer project-root .env — see ../.env.example",
+    "DEEPSEEK_API_KEY": "your-deepseek-key",
+    "EMBEDDING_API_KEY": "your-dashscope-embedding-key",
+    "QWEN_API_KEY": ""
+}

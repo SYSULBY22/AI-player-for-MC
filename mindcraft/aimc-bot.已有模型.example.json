@@ -1,0 +1,5 @@
+{
+    "name": "小艾",
+    "model": "ollama/qwen2.5:7b",
+    "embedding": "ollama/nomic-embed-text"
+}

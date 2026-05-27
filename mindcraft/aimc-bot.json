@@ -1,0 +1,12 @@
+{
+    "name": "XiaoAi",
+    "model": {
+        "api": "deepseek",
+        "model": "deepseek-chat"
+    },
+    "embedding": {
+        "api": "qwen",
+        "url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+        "model": "text-embedding-v3"
+    }
+}
