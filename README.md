@@ -1,2 +1,2 @@
-# AI-player-for-MC
-create a AI player in your MineCraft world !
+# 我的世界 AI智能体
+将一个智能体嵌入到你的世界！
