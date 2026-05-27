@@ -1,11 +1,11 @@
 # AIMC — 在《我的世界》里加一个 AI 队友
 
 <p align="center">
-  <img src="F1.png" alt="预览 1" width="18%" />
-  <img src="F2.png" alt="预览 2" width="18%" />
-  <img src="F3.png" alt="预览 3" width="18%" />
-  <img src="F4.png" alt="预览 4" width="18%" />
-  <img src="F5.png" alt="预览 5" width="18%" />
+  <img src="F1.png" alt="预览 1" width="100%" /><br/><br/>
+  <img src="F2.png" alt="预览 2" width="100%" /><br/><br/>
+  <img src="F3.png" alt="预览 3" width="100%" /><br/><br/>
+  <img src="F4.png" alt="预览 4" width="100%" /><br/><br/>
+  <img src="F5.png" alt="预览 5" width="100%" />
 </p>
 
 你刚拿到这个项目文件夹。按下面顺序做，就能让一个 AI 以「第二个玩家」的身份进你的世界，帮你挖矿、建造、战斗、聊天。
